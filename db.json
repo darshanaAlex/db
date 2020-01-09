@@ -1,4 +1,8 @@
 {
+  "user": {
+    "u_name": "Henry Nixon",
+    "password": "123"
+  },
   "profile": {
     "e_id": 21,
     "name": "Henry Nixon",

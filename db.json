@@ -1,4 +1,19 @@
 {
+  "profile": {
+    "e_id": 21,
+    "name": "Henry Nixon",
+    "mobile": "+94 768061779",
+    "join_date": "August 2019",
+    "email": "henrynixon@gmail.com",
+    "b_date": "26-JULY-1997",
+    "address": [
+      {
+        "add1": "30 Wertheim Crt",
+        "add2": "Suite C16",
+        "add3": "Richmond Hill"
+      }
+    ]
+  },
   "paystub": [
     {
       "id": "1",
@@ -16,5 +31,119 @@
       "id": "4",
       "date": "18-Dec-2019"
     }
-  ]
+  ],
+  "paystub_Details": {
+    "name": "Henry Nixon",
+    "address": [
+      {
+        "add1": "30 Wertheim Crt",
+        "add2": "Suite C16",
+        "add3": "Richmond Hill"
+      }
+    ],
+    "e_id": 21,
+    "peroid": "10-Aug-2019 to 18-Aug-2019",
+    "payment_date": "18-Aug-2019"
+  },
+  "earn": {
+    "detail": [
+      {
+        "description": "EI",
+        "Units": 80,
+        "Rate": 80,
+        "Amount": 2400
+      },
+      {
+        "description": "Hourly Wages",
+        "Units": 80,
+        "Rate": 80,
+        "Amount": 1400
+      }
+    ],
+    "e_total": 3800
+  },
+  "deduction": {
+    "detail": [
+      {
+        "description": "CPP/QPP",
+        "Units": 2400
+      },
+      {
+        "description": "EI",
+        "Units": 1400
+      },
+      {
+        "description": "Fed Inc Tax",
+        "Units": null
+      },
+      {
+        "description": "Prov Inc Taxi",
+        "Units": 2400
+      },
+      {
+        "description": "Cpp/Qpp",
+        "Units": 2400
+      },
+      {
+        "description": "Cpp/Qpp",
+        "Units": 2400
+      }
+    ],
+    "d_total": 13400
+  },
+  "project": {
+    "current": "painting",
+    "current_Act": "house paint"
+  },
+  "app_setting": {
+    "language": "U.S.English",
+    "timezone": "UTC(-4.00):Eastern Time"
+  },
+  "myTimeSheet": [
+    {
+      "id": [
+        {
+          "date": "18-Sep-2019",
+          "time": "09.30",
+          "cost": "-$23,11"
+        },
+        {
+          "date": "26-Sep-2019",
+          "time": "09.30",
+          "cost": "+$5162,34"
+        }
+      ],
+      "id2": [
+        {
+          "date": "18-Sep-2019",
+          "time": "09.30",
+          "cost": "-$14,21"
+        },
+        {
+          "date": "18-Sep-2019",
+          "time": "09.30",
+          "cost": "-$34,21"
+        },
+        {
+          "date": "18-Sep-2019",
+          "time": "09.30",
+          "cost": "-$89,71"
+        },
+        {
+          "date": "18-Sep-2019",
+          "time": "09.30",
+          "cost": "-$59,71"
+        }
+      ]
+    }
+  ],
+  "Dependent": {
+    "name": "Marry doe",
+    "relationship": "Spouse",
+    "gender": "Female",
+    "dob": "26-Jul-1997",
+    "insurer": "Manulife Insurence",
+    "Coverage": "Vision,Dental,Extended Health",
+    "": {}
+  }
 }

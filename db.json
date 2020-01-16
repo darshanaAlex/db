@@ -20,24 +20,25 @@
         "richmond": "Richmond Hill",
         "e_id": 21,
         "peroid": "10-Aug-2019 to 18-Aug-2019",
-        "payment_date": "18-Aug-2019"
+        "payment_date": "18-Aug-2019",
+        "net_pay": 24600
       },
       "earn": {
         "detail": [
           {
             "description": "EI",
             "Units": 80,
-            "Rate": 80,
-            "Amount": 2400
+            "Rate": 800,
+            "Amount": 24000
           },
           {
             "description": "Hourly Wages",
             "Units": 80,
-            "Rate": 80,
-            "Amount": 1400
+            "Rate": 800,
+            "Amount": 14000
           }
         ],
-        "e_total": 3800
+        "e_total": 38000
       },
       "deduction": {
         "detail": [
@@ -51,7 +52,7 @@
           },
           {
             "description": "Fed Inc Tax",
-            "Units": null
+            "Units": 2400
           },
           {
             "description": "Prov Inc Taxi",

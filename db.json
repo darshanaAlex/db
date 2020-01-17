@@ -258,7 +258,7 @@
   "myTimeSheet": [
     {
       "id": "1",
-      "date": "18-Sep-2019",
+      "date": "15-Sep-2019",
       "time": "09.30",
       "cost": "-$23,11",
       "timedetail": {
@@ -269,8 +269,10 @@
           {
             "date": "Sun, Sep 15,2019",
             "hours": "0 HRS",
-            "periodOne": "4 hrs",
-            "periodTwo": "4 hrs"
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
           },
           {
             "date": "Sun, Sep 15,2019",
@@ -295,31 +297,186 @@
       "id": "2",
       "date": "26-Sep-2019",
       "time": "09.30",
-      "cost": "+$5162,34"
+      "cost": "+$5162,34",
+      "timedetail": {
+        "period": "Sun, Sep 26, 2019 to Sun, Sep 26,2019 ",
+        "approval": "Pending Approval",
+        "totalPending": "26.00 hrs",
+        "detail": [
+          {
+            "date": "Sun, Sep 26,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 26,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 26,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          }
+        ]
+      }
     },
     {
       "id": "3",
       "date": "18-Sep-2019",
       "time": "09.30",
-      "cost": "-$14,21"
+      "cost": "-$14,21",
+      "timedetail": {
+        "period": "Sun, Sep 18, 2019 to Sun, Sep 18,2019 ",
+        "approval": "Pending Approval",
+        "totalPending": "26.00 hrs",
+        "detail": [
+          {
+            "date": "Sun, Sep 18,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 18,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 18,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          }
+        ]
+      }
     },
     {
       "id": "4",
       "date": "18-Sep-2019",
       "time": "09.30",
-      "cost": "-$34,21"
+      "cost": "-$34,21",
+      "timedetail": {
+        "period": "Sun, Sep 18, 2019 to Sun, Sep 18,2019 ",
+        "approval": "Pending Approval",
+        "totalPending": "26.00 hrs",
+        "detail": [
+          {
+            "date": "Sun, Sep 18,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 18,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 18,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          }
+        ]
+      }
     },
     {
       "id": "5",
       "date": "18-Sep-2019",
       "time": "09.30",
-      "cost": "-$89,71"
+      "cost": "-$89,71",
+      "timedetail": {
+        "period": "Sun, Sep 18, 2019 to Sun, Sep 18,2019 ",
+        "approval": "Pending Approval",
+        "totalPending": "26.00 hrs",
+        "detail": [
+          {
+            "date": "Sun, Sep 18,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 18,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 18,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          }
+        ]
+      }
     },
     {
       "id": "6",
       "date": "18-Sep-2019",
       "time": "09.30",
-      "cost": "-$59,71"
+      "cost": "-$59,71",
+      "timedetail": {
+        "period": "Sun, Sep 18, 2019 to Sun, Sep 18,2019 ",
+        "approval": "Pending Approval",
+        "totalPending": "26.00 hrs",
+        "detail": [
+          {
+            "date": "Sun, Sep 15,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 15,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          },
+          {
+            "date": "Sun, Sep 15,2019",
+            "hours": "0 HRS",
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
+          }
+        ]
+      }
     }
   ]
 }

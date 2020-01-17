@@ -283,8 +283,10 @@
           {
             "date": "Sun, Sep 15,2019",
             "hours": "0 HRS",
-            "periodOne": "4 hrs",
-            "periodTwo": "4 hrs"
+            "periodOne": "08.00AM to 12.00PM",
+            "periodTwo": "12.45PM to 06.45PM",
+            "periodOneH": "4 hrs",
+            "periodTwoH": "4 hrs"
           }
         ]
       }

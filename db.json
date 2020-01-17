@@ -175,38 +175,7 @@
       "id": "2",
       "date": "26-Sep-2019",
       "time": "09.30",
-      "cost": "+$5162,34",
-      "timedetail": {
-        "period": "Sun, Sep 26, 2019 to Sun, Sep 26,2019 ",
-        "approval": "Pending Approval",
-        "totalPending": "26.00 hrs",
-        "detail": [
-          {
-            "date": "Sun, Sep 26,2019",
-            "hours": "0 HRS",
-            "periodOne": "08.00AM to 12.00PM",
-            "periodTwo": "12.45PM to 06.45PM",
-            "periodOneH": "4 hrs",
-            "periodTwoH": "4 hrs"
-          },
-          {
-            "date": "Sun, Sep 26,2019",
-            "hours": "0 HRS",
-            "periodOne": "08.00AM to 12.00PM",
-            "periodTwo": "12.45PM to 06.45PM",
-            "periodOneH": "4 hrs",
-            "periodTwoH": "4 hrs"
-          },
-          {
-            "date": "Sun, Sep 26,2019",
-            "hours": "0 HRS",
-            "periodOne": "08.00AM to 12.00PM",
-            "periodTwo": "12.45PM to 06.45PM",
-            "periodOneH": "4 hrs",
-            "periodTwoH": "4 hrs"
-          }
-        ]
-      }
+      "cost": "+$5162,34"
     }
   ]
 }

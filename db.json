@@ -35,6 +35,12 @@
             "Amount": 24000
           },
           {
+            "description": "EI2",
+            "Units": 80,
+            "Rate": 800,
+            "Amount": 24000
+          },
+          {
             "description": "Hourly Wages",
             "Units": 80,
             "Rate": 800,

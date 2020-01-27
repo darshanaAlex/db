@@ -24,7 +24,8 @@
         "payment_date": "18-Sep-2019",
         "net_pay": 24600,
         "e_total": 38000,
-        "d_total": 13400
+        "d_total": 13400,
+        "pdf_url": "http://www.africau.edu/images/default/sample.pdf"
       },
       "earn": {
         "detail": [
@@ -91,7 +92,8 @@
         "payment_date": "18-Oct-2019",
         "net_pay": 24600,
         "e_total": 38000,
-        "d_total": 13400
+        "d_total": 13400,
+        "pdf_url": "http://www.africau.edu/images/default/sample.pdf"
       },
       "earn": {
         "detail": [

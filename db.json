@@ -93,7 +93,7 @@
         "net_pay": 24600,
         "e_total": 38000,
         "d_total": 13400,
-        "pdf_url": "http://www.africau.edu/images/default/sample.pdf"
+        "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
       },
       "earn": {
         "detail": [
